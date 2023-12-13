@@ -30,8 +30,3 @@ jobs:
     - name: Test with pytest
       run: |
         python toDoList/manage.py test
-<<<<<<< HEAD
-=======
-
-
->>>>>>> bc9cf9311e6cb1be08b6416340bba16a99eaae6d
